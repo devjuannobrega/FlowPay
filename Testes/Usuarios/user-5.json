@@ -1,0 +1,30 @@
+{
+  "data": {
+    "nomeCompleto": "Bruno Cardoso Almeida",
+    "cpf": "66008638034",
+    "email": "bruno.almeida@email.com",
+    "senha": "Secreta@321",
+    "telefone": "85991234567",
+    "dataNascimento": "1987-09-30",
+    "tipoConta": "SAVINGS",
+    "endereco": "Avenida Beira Mar, 4500, Apto 702",
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "cep": "60165121",
+    "nomeMae": "Mariana Almeida",
+    "profissao": "Engenheiro Civil",
+    "empresaTrabalho": "Construções Nordeste S.A."
+  },
+  "response": {
+    "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJicnVuby5hbG1laWRhQGVtYWlsLmNvbSIsInVzZXJJZCI6Nywicm9sZXMiOiJST0xFX1VTRVIiLCJ0eXBlIjoiQUNDRVNTIiwiaWF0IjoxNzYxNjEwNjA5LCJleHAiOjE3NjE2MTE1MDl9.Yu1MlTQthzyG3yMULQO6oN5WypVn_yZK2yla435B7LXpSLJoKVAjZZbA7yAAAWWM3BwlsEHmByZ08Vm8Xx_A4g",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJicnVuby5hbG1laWRhQGVtYWlsLmNvbSIsInVzZXJJZCI6NywidHlwZSI6IlJFRlJFU0giLCJpYXQiOjE3NjE2MTA2MDksImV4cCI6MTc2MjIxNTQwOX0.TAavZk1RfC0WCsyNhHWAUbba8G0IuG0BPis8P5h7z8e8Wp-4D8O1mNPxK0E4n5tvt6Z7z7hqa4H_WyX9Nu2w7A",
+    "tokenType": "Bearer",
+    "userId": 7,
+    "email": "bruno.almeida@email.com",
+    "nomeCompleto": "Bruno Cardoso Almeida",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "twoFactorRequired": false
+  }
+}

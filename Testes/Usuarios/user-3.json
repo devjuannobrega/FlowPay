@@ -1,0 +1,30 @@
+{
+  "data": {
+    "nomeCompleto": "Lucas Henrique Costa",
+    "cpf": "79321271066",
+    "email": "lucas.costa@email.com",
+    "senha": "Forte@456",
+    "telefone": "21976543210",
+    "dataNascimento": "1985-11-25",
+    "tipoConta": "SAVINGS",
+    "endereco": "Avenida Atlântica, 3200, Apto 501",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "cep": "22070002",
+    "nomeMae": "Sandra Costa",
+    "profissao": "Contador",
+    "empresaTrabalho": "Contabilidade Silva & Associados"
+  },
+  "response": {
+    "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJsdWNhcy5jb3N0YUBlbWFpbC5jb20iLCJ1c2VySWQiOjUsInJvbGVzIjoiUk9MRV9VU0VSIiwidHlwZSI6IkFDQ0VTUyIsImlhdCI6MTc2MTYxMDQ4MiwiZXhwIjoxNzYxNjExMzgyfQ.lAVESbbItSLdBFsRFaHCv_gjP5eyHeTtZgqtbqeWI8vU_7mtbHNuEI75lUnPKRSHB5OiSL3eZW5KFvFzbLeyLQ",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJsdWNhcy5jb3N0YUBlbWFpbC5jb20iLCJ1c2VySWQiOjUsInR5cGUiOiJSRUZSRVNIIiwiaWF0IjoxNzYxNjEwNDgyLCJleHAiOjE3NjIyMTUyODJ9.7-b6Iowy4o6Jq61vBmWn6bgb9g6Gq_KWp_PqkeTEpkLT8jykWoLAbinn9reZwWgfQbESBFo7dJMPRGtHJLLAKg",
+    "tokenType": "Bearer",
+    "userId": 5,
+    "email": "lucas.costa@email.com",
+    "nomeCompleto": "Lucas Henrique Costa",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "twoFactorRequired": false
+  }
+}

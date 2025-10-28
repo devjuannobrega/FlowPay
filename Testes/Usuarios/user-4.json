@@ -1,0 +1,30 @@
+{
+  "data": {
+    "nomeCompleto": "Felipe Augusto Lima",
+    "cpf": "03601651092",
+    "email": "felipe.lima@email.com",
+    "senha": "Protegida@789",
+    "telefone": "31998877665",
+    "dataNascimento": "1990-04-12",
+    "tipoConta": "CHECKING",
+    "endereco": "Rua da Bahia, 1200, Sala 305",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "cep": "30160011",
+    "nomeMae": "Julia Lima",
+    "profissao": "Arquiteto",
+    "empresaTrabalho": "Design & Arquitetura Moderna"
+  },
+  "response": {
+    "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJmZWxpcGUubGltYUBlbWFpbC5jb20iLCJ1c2VySWQiOjYsInJvbGVzIjoiUk9MRV9VU0VSIiwidHlwZSI6IkFDQ0VTUyIsImlhdCI6MTc2MTYxMDU5MiwiZXhwIjoxNzYxNjExNDkyfQ.ZU3tZ8ICKcyAn2kny3p9ZK0WEKb4IK89_bC5PzKlHOH4Obs_UUG9tSC2TiFe3RpkyjNcPMQKRHfzvqfSxuJF5w",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJmZWxpcGUubGltYUBlbWFpbC5jb20iLCJ1c2VySWQiOjYsInR5cGUiOiJSRUZSRVNIIiwiaWF0IjoxNzYxNjEwNTkyLCJleHAiOjE3NjIyMTUzOTJ9.9YPTZut5BjAQPJxvyaWGqZMcUjL6EmEsLJmt4H_rxGwfTn5_Vlb0oOOF6IhsudeTDhQI1Q4YP5kAaKodxAOQGw",
+    "tokenType": "Bearer",
+    "userId": 6,
+    "email": "felipe.lima@email.com",
+    "nomeCompleto": "Felipe Augusto Lima",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "twoFactorRequired": false
+  }
+}

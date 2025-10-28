@@ -1,0 +1,30 @@
+{
+  "data": {
+    "nomeCompleto": "Carlos Eduardo Mendes",
+    "cpf": "20581687043",
+    "email": "carlos.mendes@email.com",
+    "senha": "Forte@789",
+    "telefone": "11998765432",
+    "dataNascimento": "1988-03-10",
+    "tipoConta": "CHECKING",
+    "endereco": "Rua Augusta, 2500, Apto 301",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01412100",
+    "nomeMae": "Claudia Mendes",
+    "profissao": "Gerente de Projetos",
+    "empresaTrabalho": "Innova Tech Solutions"
+  },
+  "response": {
+    "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjYXJsb3MubWVuZGVzQGVtYWlsLmNvbSIsInVzZXJJZCI6Mywicm9sZXMiOiJST0xFX1VTRVIiLCJ0eXBlIjoiQUNDRVNTIiwiaWF0IjoxNzYxNjEwMTg5LCJleHAiOjE3NjE2MTEwODl9.Ld0LJIhAg5xCpBNW3VDn0TqAk-zELF4szuHzQMKz3niQJ_Wrs3ZeAGuvy1wFL3L8To-xQUY584jSBi_sHNzZzQ",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjYXJsb3MubWVuZGVzQGVtYWlsLmNvbSIsInVzZXJJZCI6MywidHlwZSI6IlJFRlJFU0giLCJpYXQiOjE3NjE2MTAxODksImV4cCI6MTc2MjIxNDk4OX0.lTVJPO3TMm1QSwGZ_hUDkh5e9vVffKJJxEbj0mAokKtn2TQfEllGJgrqrd3gLSyO8dfGe-AV5eeZdJDQNK4jXw",
+    "tokenType": "Bearer",
+    "userId": 3,
+    "email": "carlos.mendes@email.com",
+    "nomeCompleto": "Carlos Eduardo Mendes",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "twoFactorRequired": false
+  }
+}

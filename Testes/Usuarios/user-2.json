@@ -1,0 +1,30 @@
+{
+  "data": {
+    "nomeCompleto": "Rafael Santos Oliveira",
+    "cpf": "55702063023",
+    "email": "rafael.oliveira@email.com",
+    "senha": "Segura@123",
+    "telefone": "11987654321",
+    "dataNascimento": "1992-07-18",
+    "tipoConta": "CHECKING",
+    "endereco": "Rua dos Pinheiros, 850, Apto 102",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "05422001",
+    "nomeMae": "Patricia Santos Oliveira",
+    "profissao": "Desenvolvedor Full Stack",
+    "empresaTrabalho": "Tech Innovations Ltda"
+  },
+  "response": {
+    "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJyYWZhZWwub2xpdmVpcmFAZW1haWwuY29tIiwidXNlcklkIjo0LCJyb2xlcyI6IlJPTEVfVVNFUiIsInR5cGUiOiJBQ0NFU1MiLCJpYXQiOjE3NjE2MTA0NDQsImV4cCI6MTc2MTYxMTM0NH0.M0piBQICTVC3brWdwej-mQowX89suoVN3OWl-BHjKlbf37Tldy8F4lwqkyzp_yw4_cHKIsN7pxb-cZ7cq_J4wA",
+    "refreshToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJyYWZhZWwub2xpdmVpcmFAZW1haWwuY29tIiwidXNlcklkIjo0LCJ0eXBlIjoiUkVGUkVTSCIsImlhdCI6MTc2MTYxMDQ0NCwiZXhwIjoxNzYyMjE1MjQ0fQ.CPlY9uEJjSnlKlI7D0Hbnk55vIHxqyOCPf3syydSyKKZq7MJUWyZVeSoVQ31t4yQASOtAgklAzHOxwYhTwzMvA",
+    "tokenType": "Bearer",
+    "userId": 4,
+    "email": "rafael.oliveira@email.com",
+    "nomeCompleto": "Rafael Santos Oliveira",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "twoFactorRequired": false
+  }
+}
